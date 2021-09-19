@@ -1,0 +1,20 @@
+{
+    "5208707": {
+        "municipio": "Goiania",
+        "uf": "GO",
+        "homologacao": "https://nfse.goiania.go.gov.br/ws/nfse.asmx",
+        "producao": "https://nfse.goiania.go.gov.br/ws/nfse.asmx",
+        "version": "2.00",
+        "msgns": "http://www.abrasf.org.br/nfse.xsd",
+        "soapns": "http://www.abrasf.org.br/nfse.xsd"
+    },
+    "5107602": {
+        "municipio": "Rondonopolis",
+        "uf": "MT",
+        "homologacao": "https://www.gp.srv.br/tributario_homologacao/servlet/anfse_web_service?wsdl",
+        "producao": "http://intranet.rondonopolis.mt.gov.br/tributario_rondonopolis/servlet/anfse_web_service?wsdl",
+        "version": "2.02",
+        "msgns": "http://www.abrasf.org.br/nfse.xsd",
+        "soapns": "http://www.betha.com.br/e-nota-contribuinte-ws"
+    }
+}
