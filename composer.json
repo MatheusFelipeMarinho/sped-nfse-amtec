@@ -1,5 +1,5 @@
 {
-    "name": "nfephp-org/sped-nfse-amtec",
+    "name": "douglasduarte/sped-nfse-amtec",
     "type": "library",
     "version": "1.0.0",
     "description": "API para geração e comunicação de RPS e NFSe no padão AMTEC Goiania.",
