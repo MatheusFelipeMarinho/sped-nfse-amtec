@@ -1,10 +1,10 @@
 {
-    "name": "douglasduarte/sped-nfse-amtec",
+    "name": "matheus_felipe/sped-nfse-amtec",
     "type": "library",
     "version": "1.0.0",
     "description": "API para geração e comunicação de RPS e NFSe no padão AMTEC Goiania.",
     "keywords": ["nfe","nfse","sped","nfephp"],
-    "homepage": "https://github.com/nfephp-org/sped-nfse-amtec",
+    "homepage": "https://github.com/MatheusFelipeMarinho/sped-nfse-amtec",
     "license": ["LGPL-3.0-or-later", "GPL-3.0-or-later", "MIT"],
     "authors": [
         {
@@ -12,10 +12,14 @@
             "email": "linux.rlm@gmail.com.br",
             "homepage": "http://www.nfephp.org",
             "role": "Developer"
+        },
+        {
+            "name": "Matheus Felipe Marinho",
+            "email": "matheus_fellip@hotmail.com"
         }
     ],
     "require": {
-        "php" : ">= 7.1",
+        "php" : "^7.1|^8.0",
         "nfephp-org/sped-common" : "^5.0",
         "justinrainbow/json-schema": "^5.2",
         "ext-zlib": "*",
@@ -30,7 +34,7 @@
         "phpunit/phpunit": "^9.1",
         "scrutinizer/ocular": "^1.3",
         "phpstan/phpstan": "^0.12",
-        "nunomaduro/phpinsights": "^1.14"
+        "nunomaduro/phpinsights": "^2.0.1"
     },
     "autoload": {
         "psr-4": {
